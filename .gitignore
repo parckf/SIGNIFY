@@ -10,3 +10,6 @@ node_modules/
 # OS
 .DS_Store
 Thumbs.db   
+
+echo "VMware-workstation-full-17.6.4-24832109 (2).exe" >> .gitignore
+echo "*.exe" >> .gitignore
